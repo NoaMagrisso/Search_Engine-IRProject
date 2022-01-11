@@ -25,6 +25,7 @@ By this project we implemented a search engine on Wikipedia, as we asked to do u
 
 
 | CSV File's Name | The Information Inside |
+| --- | --- |
 | PageRank | id, page rank table |
 
 
