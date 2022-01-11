@@ -21,6 +21,11 @@ By this project we implemented a search engine on Wikipedia, as we asked to do u
 | PageView | a dictionary which it's keys are doc_id, and the values are the page view of the document |
 | DL_Title | a dictionary which it's keys are doc_id, and the values are length of the doc's title |
 | DL_Body | a dictionary which it's keys are doc_id, and the values are length of the doc's body |
+| normalized_doc_vec | a dictionary which it's keys are doc_id, and the values the vector size of each of them |
+
+
+| CSV File's Name | The Information Inside |
+| PageRank | id, page rank table |
 
 
 ![This is an image](https://github.com/NoaMagrisso/Search_Engine-IRProject/blob/main/README_image.JPG)
